@@ -1,4 +1,16 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "username": "timotimo",
+      "currentSectionId": 1
+    },
+    {
+      "id": 2,
+      "username": "kunkun",
+      "currentSectionId": 2
+    }
+  ],
   "sections": [
     {
       "id": 1,

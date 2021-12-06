@@ -1,4 +1,42 @@
 {
+  "sections": [
+    {
+      "id": 1,
+      "sectionName": "Weekly Agenda",
+      "sortBy": 0,
+      "sortDirection": 0,
+      "tagColors": {
+        "1": {
+          "color": "red",
+          "text": ""
+        },
+        "2": {
+          "color": "orange",
+          "text": ""
+        },
+        "3": {
+          "color": "yellow",
+          "text": ""
+        },
+        "4": {
+          "color": "green",
+          "text": ""
+        },
+        "5": {
+          "color": "blue",
+          "text": ""
+        },
+        "6": {
+          "color": "indigo",
+          "text": ""
+        },
+        "7": {
+          "color": "violet",
+          "text": ""
+        }
+      }
+    }
+  ],
   "todos": [
     {
       "id": 1,
