@@ -20,31 +20,31 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
-          "text": ""
+          "color": "rgba(250, 10, 10, 0.64)",
+          "text": "HIGH"
         },
         "2": {
-          "color": "orange",
-          "text": ""
+          "color": "rgba(248, 148, 77, 0.81)",
+          "text": "MED"
         },
         "3": {
-          "color": "yellow",
-          "text": ""
+          "color": "rgb(232, 236, 8)",
+          "text": "LOW"
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
         }
       }
@@ -57,31 +57,31 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
+          "color": "rgba(250, 10, 10, 0.64)",
           "text": ""
         },
         "2": {
-          "color": "orange",
+          "color": "rgba(248, 148, 77, 0.81)",
           "text": ""
         },
         "3": {
-          "color": "yellow",
+          "color": "rgb(232, 236, 8)",
           "text": ""
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
         }
       }
@@ -94,31 +94,31 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
+          "color": "rgba(250, 10, 10, 0.64)",
           "text": ""
         },
         "2": {
-          "color": "orange",
+          "color": "rgba(248, 148, 77, 0.81)",
           "text": ""
         },
         "3": {
-          "color": "yellow",
+          "color": "rgb(232, 236, 8)",
           "text": ""
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
         }
       }
@@ -135,7 +135,8 @@
       "priority": 0,
       "groupId": 0,
       "groupName": "group 0",
-      "groupColor": "#808080"
+      "groupColor": "#808080",
+      "tags": [1, 2]
     },
     {
       "id": 2,
@@ -147,7 +148,8 @@
       "priority": 0,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [1, 2]
     },
     {
       "id": 3,
@@ -159,7 +161,8 @@
       "priority": 1,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [3]
     },
     {
       "id": 4,
@@ -171,7 +174,8 @@
       "priority": 2,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [3]
     },
     {
       "id": 5,
@@ -183,7 +187,8 @@
       "priority": 2,
       "groupId": 4,
       "groupName": "group 4",
-      "groupColor": "#BF40BF"
+      "groupColor": "#BF40BF",
+      "tags": [1, 2]
     },
     {
       "id": 6,
@@ -195,7 +200,8 @@
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [4]
     },
     {
       "id": 7,
@@ -207,7 +213,8 @@
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [5]
     },
     {
       "id": 8,
@@ -219,7 +226,8 @@
       "priority": 0,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [6]
     },
     {
       "id": 9,
@@ -231,7 +239,8 @@
       "priority": 2,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [1, 2, 3, 4, 5, 6, 7]
     },
     {
       "id": 10,
@@ -243,7 +252,8 @@
       "priority": 0,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [6, 7]
     },
     {
       "id": 11,
@@ -255,7 +265,8 @@
       "priority": 0,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [5, 6]
     },
     {
       "id": 12,
@@ -267,7 +278,8 @@
       "priority": 2,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [1, 2, 3]
     },
     {
       "id": 13,
@@ -279,7 +291,8 @@
       "priority": 2,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [1, 2, 3]
     },
     {
       "id": 14,
@@ -291,7 +304,8 @@
       "priority": 1,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [3, 6, 4]
     },
     {
       "id": 15,
@@ -303,7 +317,8 @@
       "priority": 2,
       "groupId": 4,
       "groupName": "group 4",
-      "groupColor": "#BF40BF"
+      "groupColor": "#BF40BF",
+      "tags": [7, 3, 5]
     },
     {
       "id": 16,
@@ -315,7 +330,8 @@
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [4, 2, 1]
     },
     {
       "id": 17,
@@ -327,7 +343,8 @@
       "priority": 2,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [1, 5, 7]
     },
     {
       "id": 18,
@@ -339,7 +356,8 @@
       "priority": 1,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [7]
     }
   ]
 }

@@ -8,12 +8,87 @@
     {
       "id": 2,
       "username": "kunkun",
-      "currentSectionId": 2
+      "currentSectionId": 3
     }
   ],
   "sections": [
     {
       "id": 1,
+      "userId": 1,
+      "sectionName": "Weekly Agenda",
+      "sortBy": 0,
+      "sortDirection": 0,
+      "tagColors": {
+        "1": {
+          "color": "red",
+          "text": ""
+        },
+        "2": {
+          "color": "orange",
+          "text": ""
+        },
+        "3": {
+          "color": "yellow",
+          "text": ""
+        },
+        "4": {
+          "color": "green",
+          "text": ""
+        },
+        "5": {
+          "color": "blue",
+          "text": ""
+        },
+        "6": {
+          "color": "indigo",
+          "text": ""
+        },
+        "7": {
+          "color": "violet",
+          "text": ""
+        }
+      }
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "sectionName": "Today's Todo",
+      "sortBy": 0,
+      "sortDirection": 0,
+      "tagColors": {
+        "1": {
+          "color": "red",
+          "text": ""
+        },
+        "2": {
+          "color": "orange",
+          "text": ""
+        },
+        "3": {
+          "color": "yellow",
+          "text": ""
+        },
+        "4": {
+          "color": "green",
+          "text": ""
+        },
+        "5": {
+          "color": "blue",
+          "text": ""
+        },
+        "6": {
+          "color": "indigo",
+          "text": ""
+        },
+        "7": {
+          "color": "violet",
+          "text": ""
+        }
+      }
+    },
+    {
+      "id": 3,
+      "userId": 2,
       "sectionName": "Weekly Agenda",
       "sortBy": 0,
       "sortDirection": 0,
@@ -60,7 +135,8 @@
       "priority": 0,
       "groupId": 0,
       "groupName": "group 0",
-      "groupColor": "#808080"
+      "groupColor": "#808080",
+      "tags": [1, 2]
     },
     {
       "id": 2,
@@ -72,7 +148,8 @@
       "priority": 0,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [1, 2]
     },
     {
       "id": 3,
@@ -84,7 +161,8 @@
       "priority": 1,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [3]
     },
     {
       "id": 4,
@@ -96,7 +174,8 @@
       "priority": 2,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [3]
     },
     {
       "id": 5,
@@ -108,7 +187,8 @@
       "priority": 2,
       "groupId": 4,
       "groupName": "group 4",
-      "groupColor": "#BF40BF"
+      "groupColor": "#BF40BF",
+      "tags": [1, 2]
     },
     {
       "id": 6,
@@ -120,7 +200,8 @@
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [4]
     },
     {
       "id": 7,
@@ -132,7 +213,8 @@
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [5]
     },
     {
       "id": 8,
@@ -144,7 +226,8 @@
       "priority": 0,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [6]
     },
     {
       "id": 9,
@@ -156,7 +239,8 @@
       "priority": 2,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [1, 2, 3, 4, 5, 6, 7]
     },
     {
       "id": 10,
@@ -168,7 +252,8 @@
       "priority": 0,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [6, 7]
     },
     {
       "id": 11,
@@ -180,7 +265,8 @@
       "priority": 0,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [5, 6]
     },
     {
       "id": 12,
@@ -192,7 +278,8 @@
       "priority": 2,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [1, 2, 3]
     },
     {
       "id": 13,
@@ -204,7 +291,8 @@
       "priority": 2,
       "groupId": 2,
       "groupName": "group 2",
-      "groupColor": "#FFC0CB"
+      "groupColor": "#FFC0CB",
+      "tags": [1, 2, 3]
     },
     {
       "id": 14,
@@ -216,55 +304,60 @@
       "priority": 1,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [3, 6, 4]
     },
     {
       "id": 15,
-      "userId": 1,
-      "sectionId": 1,
+      "userId": 2,
+      "sectionId": 3,
       "title": "task 15",
       "description": "dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien",
       "due_date": "2020-10-04T05:43:39Z",
       "priority": 2,
       "groupId": 4,
       "groupName": "group 4",
-      "groupColor": "#BF40BF"
+      "groupColor": "#BF40BF",
+      "tags": [7, 3, 5]
     },
     {
       "id": 16,
-      "userId": 1,
-      "sectionId": 1,
+      "userId": 2,
+      "sectionId": 3,
       "title": "task 16",
       "description": "a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",
       "due_date": "2021-05-14T22:05:00Z",
       "priority": 1,
       "groupId": 1,
       "groupName": "group 1",
-      "groupColor": "#00FFFF"
+      "groupColor": "#00FFFF",
+      "tags": [4, 2, 1]
     },
     {
       "id": 17,
-      "userId": 1,
-      "sectionId": 1,
+      "userId": 2,
+      "sectionId": 3,
       "title": "task 17",
       "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus",
       "due_date": "2020-12-16T00:06:32Z",
       "priority": 2,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [1, 5, 7]
     },
     {
       "id": 18,
-      "userId": 1,
-      "sectionId": 1,
+      "userId": 2,
+      "sectionId": 3,
       "title": "task 18",
       "description": "id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget",
       "due_date": "2021-07-28T12:36:28Z",
       "priority": 1,
       "groupId": 3,
       "groupName": "group 3",
-      "groupColor": "#00FF00"
+      "groupColor": "#00FF00",
+      "tags": [7]
     }
   ]
 }
