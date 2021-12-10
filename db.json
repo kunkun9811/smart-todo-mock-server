@@ -47,6 +47,28 @@
           "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
         }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
+        }
       }
     },
     {
@@ -83,6 +105,28 @@
         "7": {
           "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
+        }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
         }
       }
     },
@@ -121,6 +165,28 @@
           "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
         }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
+        }
       }
     }
   ],
@@ -134,8 +200,6 @@
       "due_date": "2021-06-04T23:07:06Z",
       "priority": 0,
       "groupId": 0,
-      "groupName": "group 0",
-      "groupColor": "#808080",
       "tags": [1, 2]
     },
     {
@@ -147,8 +211,6 @@
       "due_date": "2021-08-08T04:05:52Z",
       "priority": 0,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [1, 2]
     },
     {
@@ -160,8 +222,6 @@
       "due_date": "2020-12-09T02:46:53Z",
       "priority": 1,
       "groupId": 2,
-      "groupName": "group 2",
-      "groupColor": "#FFC0CB",
       "tags": [3]
     },
     {
@@ -173,8 +233,6 @@
       "due_date": "2020-10-08T02:11:01Z",
       "priority": 2,
       "groupId": 3,
-      "groupName": "group 3",
-      "groupColor": "#00FF00",
       "tags": [3]
     },
     {
@@ -186,8 +244,6 @@
       "due_date": "2020-11-15T17:59:45Z",
       "priority": 2,
       "groupId": 4,
-      "groupName": "group 4",
-      "groupColor": "#BF40BF",
       "tags": [1, 2]
     },
     {
@@ -199,8 +255,6 @@
       "due_date": "2020-10-05T19:43:56Z",
       "priority": 1,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [4]
     },
     {
@@ -212,8 +266,6 @@
       "due_date": "2021-06-28T03:04:10Z",
       "priority": 1,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [5]
     },
     {
@@ -225,8 +277,6 @@
       "due_date": "2020-12-18T21:38:45Z",
       "priority": 0,
       "groupId": 2,
-      "groupName": "group 2",
-      "groupColor": "#FFC0CB",
       "tags": [6]
     },
     {
@@ -238,8 +288,6 @@
       "due_date": "2021-06-14T11:16:19Z",
       "priority": 2,
       "groupId": 2,
-      "groupName": "group 2",
-      "groupColor": "#FFC0CB",
       "tags": [1, 2, 3, 4, 5, 6, 7]
     },
     {
@@ -251,8 +299,6 @@
       "due_date": "2021-02-06T09:29:34Z",
       "priority": 0,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [6, 7]
     },
     {
@@ -264,8 +310,6 @@
       "due_date": "2021-07-17T10:31:49Z",
       "priority": 0,
       "groupId": 3,
-      "groupName": "group 3",
-      "groupColor": "#00FF00",
       "tags": [5, 6]
     },
     {
@@ -277,8 +321,6 @@
       "due_date": "2020-12-22T14:46:41Z",
       "priority": 2,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [1, 2, 3]
     },
     {
@@ -290,8 +332,6 @@
       "due_date": "2021-04-14T15:23:28Z",
       "priority": 2,
       "groupId": 2,
-      "groupName": "group 2",
-      "groupColor": "#FFC0CB",
       "tags": [1, 2, 3]
     },
     {
@@ -303,8 +343,6 @@
       "due_date": "2021-06-03T19:14:28Z",
       "priority": 1,
       "groupId": 3,
-      "groupName": "group 3",
-      "groupColor": "#00FF00",
       "tags": [3, 6, 4]
     },
     {
@@ -316,8 +354,6 @@
       "due_date": "2020-10-04T05:43:39Z",
       "priority": 2,
       "groupId": 4,
-      "groupName": "group 4",
-      "groupColor": "#BF40BF",
       "tags": [7, 3, 5]
     },
     {
@@ -329,8 +365,6 @@
       "due_date": "2021-05-14T22:05:00Z",
       "priority": 1,
       "groupId": 1,
-      "groupName": "group 1",
-      "groupColor": "#00FFFF",
       "tags": [4, 2, 1]
     },
     {
@@ -342,8 +376,6 @@
       "due_date": "2020-12-16T00:06:32Z",
       "priority": 2,
       "groupId": 3,
-      "groupName": "group 3",
-      "groupColor": "#00FF00",
       "tags": [1, 5, 7]
     },
     {
@@ -355,8 +387,6 @@
       "due_date": "2021-07-28T12:36:28Z",
       "priority": 1,
       "groupId": 3,
-      "groupName": "group 3",
-      "groupColor": "#00FF00",
       "tags": [7]
     }
   ]

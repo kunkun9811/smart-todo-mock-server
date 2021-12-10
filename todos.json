@@ -20,32 +20,54 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
-          "text": ""
+          "color": "rgba(250, 10, 10, 0.64)",
+          "text": "HIGH"
         },
         "2": {
-          "color": "orange",
-          "text": ""
+          "color": "rgba(248, 148, 77, 0.81)",
+          "text": "MED"
         },
         "3": {
-          "color": "yellow",
-          "text": ""
+          "color": "rgb(232, 236, 8)",
+          "text": "LOW"
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
+        }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
         }
       }
     },
@@ -57,32 +79,54 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
+          "color": "rgba(250, 10, 10, 0.64)",
           "text": ""
         },
         "2": {
-          "color": "orange",
+          "color": "rgba(248, 148, 77, 0.81)",
           "text": ""
         },
         "3": {
-          "color": "yellow",
+          "color": "rgb(232, 236, 8)",
           "text": ""
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
+        }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
         }
       }
     },
@@ -94,32 +138,54 @@
       "sortDirection": 0,
       "tagColors": {
         "1": {
-          "color": "red",
+          "color": "rgba(250, 10, 10, 0.64)",
           "text": ""
         },
         "2": {
-          "color": "orange",
+          "color": "rgba(248, 148, 77, 0.81)",
           "text": ""
         },
         "3": {
-          "color": "yellow",
+          "color": "rgb(232, 236, 8)",
           "text": ""
         },
         "4": {
-          "color": "green",
+          "color": "rgba(15, 255, 39, 0.44)",
           "text": ""
         },
         "5": {
-          "color": "blue",
+          "color": "rgba(15, 187, 255, 0.34)",
           "text": ""
         },
         "6": {
-          "color": "indigo",
+          "color": "rgba(39, 15, 255, 0.34)",
           "text": ""
         },
         "7": {
-          "color": "violet",
+          "color": "rgba(183, 15, 255, 0.34)",
           "text": ""
+        }
+      },
+      "groupsInfo": {
+        "0": {
+          "groupName": "group 0",
+          "groupColor": "#808080"
+        },
+        "1": {
+          "groupName": "group 1",
+          "groupColor": "#00FFFF"
+        },
+        "2": {
+          "groupName": "group 2",
+          "groupColor": "#FFC0CB"
+        },
+        "3": {
+          "groupName": "group 3",
+          "groupColor": "#00FF00"
+        },
+        "4": {
+          "groupName": "group 4",
+          "groupColor": "#BF40BF"
         }
       }
     }
